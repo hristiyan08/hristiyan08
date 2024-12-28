@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [TokenPay](tpay.projects-site.com)
 
-- 🌱 I’m currently learning **PHP,MySQL**
+- 🌱 I’m currently learning **PHP, MySQL**
 
 - 👨‍💻 All of my projects are available at [projects-site.com](projects-site.com)
 
